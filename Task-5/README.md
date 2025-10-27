@@ -105,7 +105,6 @@ infra-tfstate-01/
     └── terraform.tfstate
 Author
 Loki
-
 Created for Task-5 Internship, DevOps Project, 2025.
 
 Consider using terraform-docs to automate README updates in the future.
