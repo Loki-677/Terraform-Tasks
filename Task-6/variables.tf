@@ -1,0 +1,10 @@
+variable "region"                { type = string }
+variable "vpc_cidr"              { type = string }
+variable "public_subnet_cidr"    { type = string }
+variable "availability_zone"     { type = string }
+variable "project"               { type = string }
+variable "key_pair"              { type = string }
+variable "master_ami"            { type = string }
+variable "slave_ami"             { type = string }
+variable "master_instance_type"  { type = string }
+variable "slave_instance_type"   { type = string }
